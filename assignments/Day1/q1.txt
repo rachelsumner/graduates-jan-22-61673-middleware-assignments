@@ -1,0 +1,6 @@
+public void quotientremainder(int num1, int num2) {
+    int quotient = num1/num2;
+    int remainder = num1 % num2;
+    System.out.println("Quotient is " + quotient);
+    System.out.println("Remainder is " + remainder);
+}
